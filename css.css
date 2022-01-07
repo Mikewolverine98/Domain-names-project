@@ -1,0 +1,202 @@
+.my-firstwallpaper{
+  background-image: url("https://wonderfulengineering.com/wp-content/uploads/2016/02/white-wallpaper-11.jpg");
+
+  min-height: 550px;
+
+   /* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+/* Needed to position the navbar */
+position: relative;
+
+}
+
+
+
+
+.my-booking{
+  margin-top: 40px;
+  margin-left: -95px;
+}
+
+.my-domainnames{
+  margin-top: 50px;
+  margin-left: 250px;
+}
+
+.form-check{
+  margin-left: 82px;
+  margin-top: 15px;
+}
+
+
+
+
+
+h1{
+  font-size: 40px;
+}
+
+h3{
+  font-size: 15px;
+}
+
+
+
+
+#center{
+  width:300px;
+  border-radius: 50px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.my-domainrow{
+  margin-left: 20px;
+  margin-top: 20px;;
+}
+
+
+.my-col{
+  border: 1px solid gray;
+
+}
+
+
+
+
+
+
+.my-butwaitcol{
+  border: 1px solid gray;
+  margin-top: 2rem;
+  padding-bottom: 7px;
+  padding-top:7px;
+  background-color: gray;
+}
+
+
+
+.alert-link{
+   color: red;
+}
+
+
+
+
+.form-check{
+    margin-left: -12px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+.my-secondcolph{
+    border: 1px solid gray;
+  
+    margin-top: -336px;
+
+    
+}
+
+
+.my-howaboutcol{
+    border: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.testsbiztext{
+
+font-size: 20px;
+
+}
+
+
+.testspremium{
+  font-size: 13px;
+ 
+}
+
+
+
+
+
+.border-box{
+  border-bottom: 1px solid gray;
+
+  margin-left: 0px;
+}
+
+
+
+
+
+
+
+.my-colthirdtable{
+  border: 1px solid gray;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+
+
+
+.my-colshoppingcard{
+  border: 1px solid gray;
+  background-color: gray;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+
+.my-firstyearthirdtable{
+margin-top: -15px;
+}
+
+
+.btn-1{
+   margin-left: 724px;
+   margin-top: 10px;
+   width: 381px;
+   
+}
